@@ -1,0 +1,57 @@
+img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+
+}
+
+body{
+    padding: 10px;
+    font-size:medium;
+    background-color:cadetblue;
+    transition-property: inherit;
+    text-align: center;
+}
+.name{
+    color: white;
+    font-weight: 600;
+    font-size: large;
+}
+
+.word{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header{
+    text-align: center;
+    border-radius: 50px;
+    display: block;
+}
+
+
+header .hire{
+    margin-left: 400px;
+    padding: 20px;
+    width: 30%;
+    background-color: darkmagenta;
+    box-shadow: 1px 1px 30px rgb(0, 0, 0 / 10%);
+    border-radius: 15px;
+    transition: 0.3s ease-in;
+
+}
+header .word{
+    margin-left: 400px;
+    padding: 20px;
+    width: 30%;
+    background-color: fuchsia;
+    box-shadow: 1px 1px 30px rgb(0, 0, 0 / 10%);
+    border-radius: 15px;
+    transition: 0.3s ease-in;
+
+}
+
+h5{
+    text-align:justify;
+    color: blueviolet;
+}
+
